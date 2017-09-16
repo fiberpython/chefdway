@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Deprecated
 ==========
 
@@ -35,3 +36,7 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+# chefdway
+This is my chef code
+>>>>>>> 3dac8044265e1b141a509011a1a3a1fb960b3c72
